@@ -10521,6 +10521,12 @@ blockquote {
 #vcomment textarea:focus {
   background-image: none;
 }
+#waline-wrap textarea {
+  background: url("https://tse4-mm.cn.bing.net/th/id/OIP-C.5xAgxwljfeS9C5bTx6pQuQHaEo?pid=ImgDet&rs=1") 100% 100% no-repeat;
+}
+#waline-wrap textarea:focus {
+  background-image: none;
+}
 .fireworks {
   position: fixed;
   top: 0;
