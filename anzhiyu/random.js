@@ -1,1 +1,1 @@
-var posts=["2023/05/16/hello-world/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/05/16/hello-world/","2023/06/12/多线程的创建从线程池里边获取到线程并执行任务/","2023/05/16/四级单词复习/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
